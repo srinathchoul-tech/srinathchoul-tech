@@ -26,7 +26,7 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,mysql" />
 </p>
 
 </td>
