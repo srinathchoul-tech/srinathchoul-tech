@@ -27,7 +27,7 @@
 
 ### ⚡ Technologies & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,eclipse,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,eclipse" />
 </p>
 
 <!--
@@ -78,11 +78,12 @@
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
 </a>
 
+<!--
 <a href="https://github.com/srinathchoul-tech">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" width="40" />
 </a>
 </p>
-
+-->
 ---
 
 ## ✨ Quote I Follow
