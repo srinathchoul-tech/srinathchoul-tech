@@ -24,7 +24,7 @@
 <tr>
 <td valign="top" width="50%">
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,mysql" />
 </p>
@@ -33,7 +33,7 @@
 
 <td valign="top" width="50%">
 
-### ⚡ Technologies & Tools
+### Technologies & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,eclipse" />
 </p>
@@ -74,7 +74,7 @@
 ### 🔹 Problem Solving & DSA
 - Practicing Data Structures & Algorithms regularly
 - Solving coding challenges to strengthen logical thinking and optimization skills
--->
+
 ---
 
 ## 📊 GitHub Stats
@@ -88,7 +88,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinathchoul-tech&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
+-->
 
 <!--
 <a href="https://github.com/srinathchoul-tech">
